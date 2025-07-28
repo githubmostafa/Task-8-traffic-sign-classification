@@ -55,7 +55,8 @@ Model evaluation: accuracy & confusion matrix
 Model saving (.h5 format)
 
 📄 License
-This project is intended for educational and research purposes as part of a computer vision assignment or internship task.
+
+This project is intended for educational and research purposes as part of the Elevvo Pathways ML Internship.
 
 👨‍💻 About
 Traffic sign classification using deep learning.
